@@ -1,0 +1,7 @@
+{
+  "extends": "next/core-web-vitals",
+  //to get rid of the (I'm) inside the paregraph {intro component}
+  "rules": {
+    "react/no-unescaped-entities": 0 
+  }
+}
