@@ -27,8 +27,8 @@ export default function About() {
     >
         <SectionHeading>About Me</SectionHeading>
         <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
+        In a fild of {" "}
+        <span className="font-medium">Tech</span>, I decided to pursue my
         passion for programming. I enrolled in a coding bootcamp and learned{" "}
         <span className="font-medium">full-stack web development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
@@ -46,7 +46,7 @@ export default function About() {
 
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing
-        basketball game, video games, watching movies and i like dancing. I also enjoy{" "}
+        basketball game, Video games, watching movies, or listining to songs. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
         <span className="font-medium">Web Design</span>. I love going to the gym
