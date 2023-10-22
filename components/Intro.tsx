@@ -50,7 +50,7 @@ export default function Intro() {
                         delay: 0.1,
                         duration: 0.7,
                     }}
-                >🖐</motion.span>
+                >👋</motion.span>
                 
             </div>
         </div>
