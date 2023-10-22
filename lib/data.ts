@@ -71,7 +71,7 @@ export const projectsData = [
   {
     title: "rmtDev",
     description:
-      "Job board for remote developer jobs. I worked as a front-end developer. It has features like filtering, sorting and pagination.",
+      "Job board for remote developer jobs. I worked as a front-end developer. It has features like filtering, sorting and pagination. NDA",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
     imageUrl: rmtdevImg,
   },
