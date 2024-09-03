@@ -35,7 +35,7 @@ export default function ThemeContextProvider({
       }
   };
 
-  // This is to confirm the brithness in the localStorage(Browser Application)
+  // This is to confirm the brightness in the localStorage(Browser Application)
   useEffect(() => {
     const localTheme = window.localStorage.getItem("theme") as Theme | null;
 
