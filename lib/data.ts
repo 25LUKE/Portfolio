@@ -44,7 +44,7 @@ export const experiencesData = [
   },
   {
     title: "Self tauth",
-    location: "YouTub",
+    location: "YouTube",
     description:
       "After building several projects on Fontend i decided to learn more.",
     icon: React.createElement(CgWorkAlt),
